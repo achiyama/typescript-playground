@@ -1,4 +1,4 @@
-# TypeScript Playground
+# 👻TypeScript Playground
 
 ### Command
 ```
