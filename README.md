@@ -1,6 +1,7 @@
 # 👻TypeScript Playground
 
-### Command
+### How to Use
+
 ```
 yarn install
 yarn tsc
